@@ -14,5 +14,19 @@
             "top": 20,
             "left": 60
         }
+    ],
+    "connections": [
+        [
+            "$serialMonitor:RX",
+            "pico:GP0",
+            "",
+            []
+        ],
+        [
+            "$serialMonitor:TX",
+            "pico:GP1",
+            "",
+            []
+        ]
     ]
 }
