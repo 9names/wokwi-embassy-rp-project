@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "author": "Uri Shaked",
+    "editor": "wokwi",
+    "serialMonitor": {
+        "display": "auto",
+        "newline": "lf",
+        "convertEol": false
+    },
+    "parts": [
+        {
+            "type": "wokwi-pi-pico",
+            "id": "pico",
+            "top": 20,
+            "left": 60
+        }
+    ]
+}

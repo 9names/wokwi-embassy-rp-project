@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+firmware = 'project.hex'
+elf = 'target/thumbv6m-none-eabi/release/rust-project-pico'
+gdbServerPort = 3333
+rfc2217ServerPort = 4000
